@@ -63,11 +63,19 @@
 		8485B5D524F1CE3E004EBDF8 /* QAForm */ = {
 			isa = PBXGroup;
 			children = (
-				8485B5D624F1CE3E004EBDF8 /* QAForm.h */,
+				8485B5E024F1D49B004EBDF8 /* Classes */,
 				8485B5D724F1CE3E004EBDF8 /* Info.plist */,
-				8485B5DE24F1CF07004EBDF8 /* QARow.swift */,
 			);
 			path = QAForm;
+			sourceTree = "<group>";
+		};
+		8485B5E024F1D49B004EBDF8 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8485B5DE24F1CF07004EBDF8 /* QARow.swift */,
+				8485B5D624F1CE3E004EBDF8 /* QAForm.h */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		A3110CE7A368B1F929189462 /* Pods */ = {
